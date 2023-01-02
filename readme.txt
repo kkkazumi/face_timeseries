@@ -1,0 +1,8 @@
+- good_list.csv 
+	-- ランク付けの差が９位以内のケースを集めたもの
+- org_omron_check.py 
+	-- もともとOKAOVisionで平均値を取ってた時代（signal_before.csv）の平均値の順位付けを出すプログラム
+- quiz_u1_emopy_series.csv
+	-- wasureta
+- read_emopy.py
+	-- emopy時系列データを確認するプログラム。ヒストグラムや、なめした時系列をグラフで出します。あとは、代表値候補を探すための計算に使うつもりです。
